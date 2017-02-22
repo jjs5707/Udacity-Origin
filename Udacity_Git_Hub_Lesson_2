@@ -9,3 +9,7 @@ Prompt: How is the staging area different from the working directory and the rep
 
 Response: The staging area allows the user to get organized before creating a commit. The staging area is different from the working directory and the repository in that it doesn't actually persist anything. It is a temporary artifact ment to help the user create a logical organization. 
 
+Reflection:
+Prompt: How can you use the staging area to make sure you have one commit per logical change?
+
+Response: The staging area allows you to view what changes have been made. You can also add or remove files from the staging area. Although I'm uncertain if you can add or remove changes individually.
