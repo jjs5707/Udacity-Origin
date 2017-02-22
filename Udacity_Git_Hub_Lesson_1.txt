@@ -1,0 +1,57 @@
+GitHub Tutorial on Udacity
+
+Lesson 1
+Reflections: 
+Prompt: How did viewing a diff between two versions
+help you spot the bug?
+
+Response: Obviously viewing the differences allows you to 
+navigate only code that has changed. Because the changed
+code is the code that is of interest it is the code that
+we should be viewing. Also it is very frequently easy to 
+become "blind" to changes in the code if they are subtle
+or if you don't realize/understand that changes have been made.
+The command "FC" on windows and "DIFF" on Mac and Linux isn't 
+the greatest. It isn't as good as say "Beyond Compare" but it
+will suffice in a pinch when other products are unavailable.
+
+
+Observation Break:
+I just downloaded this new text editor called "Sublime". It seems
+fairly decent. I do like that it contains line numbers. It also 
+has defaulted to the inverted text colors. What I mean is that the
+background is black and the text color is white. I believe this might
+help with extending the amount of exposure that a persons eye's/brain
+can deal with looking at a computer screen.
+
+Exercise:
+The Udacity exercise was shit. The instrutions were for version 2 of the sublime application and I believe that I am using version 3. Not sure if that was the problem but I don't want to waste time messing with it while my initative drains away.
+
+Reflection:
+Prompt: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Response: Obviously being able to see if patterns arise in your code will allow you to learn from you mistakes. Also if I need to unwind changes or copy coding patterns it would be nice to see how I went about things in the past. The biggest benefit that I have noticed though is that when things get bad, version control allows me to "nuke it from space" as one of my collueges once told me. 
+
+Observation Break: The lesson talked about other types of version control. Some of them were Dropbox, google docs, wikipedia, SVN?, Git (obviously), and Mercurial. I'm not super familiar with all of these but it might be a good idea to remember them in case we ever have to talk about them in a job interview.
+
+Udacity brings up the term commit. Commits are a component of version control. I would phrase this as being a verb of version control.
+
+LUNCH BREAK: I've been looking at this for about an hour. The only problem with this is that it seems somewhat tedious. However I think I give 10 to 15 minutes a day to doing these type things I can improve my programming. It is worth a shot. As Arnold would say, "The worst I can be is like everybody else". I need to be better then everyone else for the sake of my family.
+
+Reflection:
+Prompt: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Response: The pros of having manual commits is that it allows you to logically decide what constitutes a block of progress. Progress is not necesarily linear and may come in leaps and stutters. I can envision having to comb through automatic save points trying to decern where I want to roll back to. Infact, I believe this is how intelliJ does it's stuff (at least to a point). However the cons of manually choosing are that you can go too far. If you make a mistake it can force you to either try to manually undo the mistake or sacrifice some progress to roll back to a save saved zone. 
+
+Reflection:
+Prompt: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file seperately?
+
+Response: Version control systems like Git manage collections, or as the tutorial described, repositories of files. These files are all related to each other. Files in a VCS such as Google Docs are much more if not completely independent of each other.
+
+Reflection:
+Prompt: How can you use the commands git log and git diff to view the history of files?
+
+Response: Git Log will allow you to view a list of all of the changes made to the repository. It isn't the most wieldy tool in the world but it is free and will get it done. Git dif will then allow you to compare different committs. Agian it isn't super wieldy but it will work. An accurate description of each committ is going to be vital if changes are to be tracked. 
+
+
+
