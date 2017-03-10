@@ -1,0 +1,6 @@
+Udacity Git Hub Lesson 2
+
+Reflection:
+Prompt: When would you want to use a remote repository rather than keeping all your work local?
+
+Response: If I was sharing my work with others or if I was planning on working on the project from more than one location. 

@@ -1,0 +1,36 @@
+Udacity Git Hub Lesson 2
+
+Reflection:
+Prompt: First prompt was answered.
+Response: It was then accidentally deleted so I will not be answering it again.
+
+Reflection:
+Prompt: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Response: The staging area allows the user to get organized before creating a commit. The staging area is different from the working directory and the repository in that it doesn't actually persist anything. It is a temporary artifact ment to help the user create a logical organization. 
+
+Reflection:
+Prompt: How can you use the staging area to make sure you have one commit per logical change?
+
+Response: The staging area allows you to view what changes have been made. You can also add or remove files from the staging area. Although I'm uncertain if you can add or remove changes individually.
+
+Reflection:
+Prompt: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Response: If I was going to try to make an experimental revision of some code branching would be particularly useful. Or if I wanted to take an application in a new direction but didn't want to destroy the original working version. I can think of a few times where this happened with code that I have been working on already.
+
+Reflection:
+Prompt: How do the diagrams help you visualze the branch structure?
+
+Response: The diagrams show the heiarchial view that occurs when branching. It allows you to "view" how a branch develops and see what is realated to what.
+
+Reflection:
+Prompt: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Response: THe result of merging two branches together is that they now have become one branch. We represent it in the diagram the way we do so that we can see at what point the branches came back together. The differences betwwen the branches will need to be worked out before they can be successfully merged and the changes made before the merge are where these difference will arise.
+
+Reflection:
+Prompt: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Response: The pros to automatic merging is that you don't have to do the merging. That sounds obvious but when merging a large number of changes that is a blessing. The cons are that git may not merge the correct values.
+
